@@ -1,3 +1,3 @@
 function makeAppear() {
-    document.getElementById("mid-find").visibility = "visible";
+    document.getElementById("map-find").style.visibility = "visible";
 }
