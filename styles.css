@@ -1,11 +1,20 @@
 body {
     background-color: #fefcca;
 }
+
 #navbar{
     background-color: #F2A541;
     margin-top: -8px;
     margin-left: -8px;
-    margin-right: -8px;
+    margin-right: -10px;
+    /* position: fixed; */
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+#content{
+    overflow: scroll;
 }
 
 #text-logo {
@@ -72,9 +81,30 @@ li {
 #more-slogan {
     margin-top: 200px;
     background-color: #fefcca;
+    margin-left: 38%;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 19px;
+}
+
+#more-slogan-list{
+    list-style-type: none;
+}
+
+#footer{
+    position: sticky;
+    bottom:0px;
+    top: 0;
+    left: 0;
+    margin: -10px;    
 }
 
 #austin-skyline{
-    position:fixed;
-    bottom:0px;
+    /* position:fixed; */
+    /* bottom:0px;
+    top: 0;
+    left: 0; */
+    display: block
+    ;
+
 }
+
