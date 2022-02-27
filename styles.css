@@ -168,3 +168,36 @@ li {
     width: 700px;
     visibility: hidden;
 }
+
+#learn-more-body{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.section-header{
+    font-size: 30px;
+}
+
+#toc{
+    background-color: #FFF07C;
+    width: 246px;
+    padding-left: 24px;
+    padding-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    
+}
+
+#toc a{
+    text-decoration: none;
+}
+
+#map-map{
+    margin-left: 30%;
+    margin-top: 5px;
+}
+
+#map-title{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 42%;
+    margin-top: 70px;
+}
