@@ -1,16 +1,44 @@
-ul {
+#navbar{
+    background-color: #F2A541;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+#text-logo {
+    margin-bottom: 18px;
+    margin-left: 13px;
+    transform: rotate(-3deg);
+}
+
+#pic-logo {
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+#nav-tabs {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    margin-left: 10px;
+    margin-bottom: 19px;
+    display: inline-block;
+    background-color: #F2A541;
+    color:white;
 }
   
 li {
     float: left;
 }
   
-li a {
+#nav-tabs li a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #F2A541;
+    color: white;
+    text-decoration: none;
+    margin-right: 100px;
+    margin-left: 50px;
+    font-size: 17px;
 }
