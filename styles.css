@@ -76,9 +76,9 @@ li {
     font-size: 37px;
 }
 #more-slogan {
-    margin-top: 200px;
+    margin-top: 310px;
     background-color: #fefcca;
-    margin-left: 38%;
+    margin-left: 42%;
     font-family: 'Space Grotesk', sans-serif;
     font-size: 19px;
 }
@@ -97,7 +97,16 @@ li {
 
 #more{
     margin-left: 45%;
-    margin-top: 100px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    border-radius: 17px;
+    padding: 7px;
+    width: 159px;
+    height: 47px;
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #F2A541;
+    font-size: 23px;
+
 }
 
 #austin-skyline{
