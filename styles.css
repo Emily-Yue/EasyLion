@@ -95,13 +95,67 @@ li {
     margin: -10px;    
 }
 
+#more{
+    margin-left: 45%;
+    margin-top: 100px;
+}
+
 #austin-skyline{
     /* position:fixed; */
     /* bottom:0px;
     top: 0;
     left: 0; */
-    display: block
-    ;
-
+    display: block;
 }
 
+.title{
+    margin-left: 40%;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#side-bar{
+    background-color: #D78A76;
+    float:right;
+    right: 50px; 
+    margin-bottom: 100px;
+    transition: 0.3s; /* Add transition on hover */
+    margin-right: 40px;
+    font-family: 'Space Grotesk', sans-serif;
+    height: 978px;
+    width: 259px;
+}
+
+.text-side{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#eat{
+    margin-left: 80px;
+    border-radius: 5px;
+    background-color: #F2A541;
+    padding: 10px;
+    text-decoration: none;
+    color:#fefcca;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#type-in{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 44%;
+    margin-top: 50px;
+}
+
+#search-bar{
+    margin-left: 33%;
+    width: 500px;
+    height: 26px;
+    border-radius: 7px;
+}
+
+#map-find{
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 700px;
+    visibility: hidden;
+}
